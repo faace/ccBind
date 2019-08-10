@@ -1,6 +1,9 @@
 # ccBind
 #### A two direction binding function for cocos creator.
+#### The entry Scene is scMain.
+
 #### 给cocos creator专用的双向绑定功能。
+#### 入口场景是scMain。
 
 # description（说明）
 #### ccBind is a js script to add two direction binding function to node. It includes the functions below:
@@ -34,12 +37,12 @@
 2. 当前绑定对象，删除时，没有清空回调行数
 
 # example（例子）
-#### [pls click here]()
-#### [请点这里]()
+#### [pls click here](https://faace.github.io/ccBind/example/index.html)
+#### [请点这里](https://faace.github.io/ccBind/example/index.html)
 
 #### 这个双向绑定是第一版，目前在没经过大量压力使用的情况下，运行还算良好，尤其在解决数据更新时同步到各个对应节点显示和控制的场合下。
 #### 当然，双向绑定也有一些缺点，就是维护上会不太方便，不容易查看到到关联关系。这个计划在后期增加一些追踪的工具。
-#### 欢迎大家指教和参与完善
+#### 欢迎大家指教和参与完善。
 #### qq讨论群: 325965847
 
 
