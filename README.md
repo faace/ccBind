@@ -28,6 +28,10 @@
 8. 全部变量绑定
 9. 动态代码绑定
 
+# notice（注意）
+#### The values/functions of binding must be defined on the corresponding node(or node's parent, parent's parent or ..) or global environment. They cannot be defined on the component.
+#### 双向绑定的变量，格式化公式，响应函数等，必须定义在对应的节点（或者父节点或者父节点的父节点上。。。）或者全部变量上。不能放在组件里面。
+
 # to do（下步要优化的内容）
 1. binding in array
 2. deleting key detection
