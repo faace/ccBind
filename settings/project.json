@@ -7,7 +7,29 @@
   ],
   "design-resolution-height": 1280,
   "design-resolution-width": 720,
-  "excluded-modules": [],
+  "excluded-modules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "RichText",
+    "MotionStreak",
+    "PageView",
+    "PageViewIndicator",
+    "VideoPlayer",
+    "WebView",
+    "Audio",
+    "AudioSource",
+    "Animation",
+    "Collider",
+    "Action",
+    "Physics",
+    "StudioComponent",
+    "Native Socket",
+    "Geom Utils",
+    "3D",
+    "3D Primitive"
+  ],
   "facebook": {
     "appID": "",
     "audience": {
@@ -23,7 +45,7 @@
   "group-list": [
     "default"
   ],
-  "last-module-event-record-time": 0,
+  "last-module-event-record-time": 1565422642447,
   "simulator-orientation": false,
   "simulator-resolution": {
     "height": 640,
